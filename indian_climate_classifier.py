@@ -2,7 +2,7 @@ regions =[{'name': 'Western Ghats', 'rainfall':152},
           {'name':'Rajasthan','rainfall':60},
           {'name':'Kolkata','rainfall':100},
           {'name':'Meghalaya', 'rainfall': 250},
-          {'name':'Amazon Basin','rainfall': 500}]
+          {'name':'Assam','rainfall': 500}]
 
 regions.append({'name':'Bangaluru','rainfall':360})
 
